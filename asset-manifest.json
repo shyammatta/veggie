@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/veggie/static/css/main.5ac67ded.css",
+    "main.js": "/veggie/static/js/main.2d4f1031.js",
+    "static/media/berakaya.webp": "/veggie/static/media/berakaya.41eec912b6f60df934b1.webp",
+    "static/media/dondakaya.jpg": "/veggie/static/media/dondakaya.df6f659dcd1f19b860e3.jpg",
+    "index.html": "/veggie/index.html",
+    "main.5ac67ded.css.map": "/veggie/static/css/main.5ac67ded.css.map",
+    "main.2d4f1031.js.map": "/veggie/static/js/main.2d4f1031.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ac67ded.css",
+    "static/js/main.2d4f1031.js"
+  ]
+}
