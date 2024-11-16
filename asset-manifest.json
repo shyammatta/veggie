@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/veggie/myfirst-app/static/css/main.5ac67ded.css",
-    "main.js": "/veggie/myfirst-app/static/js/main.dca7bde0.js",
-    "static/media/berakaya.webp": "/veggie/myfirst-app/static/media/berakaya.41eec912b6f60df934b1.webp",
-    "static/media/dondakaya.jpg": "/veggie/myfirst-app/static/media/dondakaya.df6f659dcd1f19b860e3.jpg",
-    "index.html": "/veggie/myfirst-app/index.html",
-    "main.5ac67ded.css.map": "/veggie/myfirst-app/static/css/main.5ac67ded.css.map",
-    "main.dca7bde0.js.map": "/veggie/myfirst-app/static/js/main.dca7bde0.js.map"
+    "main.css": "/static/css/main.5ac67ded.css",
+    "main.js": "/static/js/main.f593e087.js",
+    "static/media/berakaya.webp": "/static/media/berakaya.41eec912b6f60df934b1.webp",
+    "static/media/dondakaya.jpg": "/static/media/dondakaya.df6f659dcd1f19b860e3.jpg",
+    "index.html": "/index.html",
+    "main.5ac67ded.css.map": "/static/css/main.5ac67ded.css.map",
+    "main.f593e087.js.map": "/static/js/main.f593e087.js.map"
   },
   "entrypoints": [
     "static/css/main.5ac67ded.css",
-    "static/js/main.dca7bde0.js"
+    "static/js/main.f593e087.js"
   ]
 }
