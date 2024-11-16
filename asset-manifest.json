@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/veggie/static/css/main.5ac67ded.css",
-    "main.js": "/veggie/static/js/main.2d4f1031.js",
-    "static/media/berakaya.webp": "/veggie/static/media/berakaya.41eec912b6f60df934b1.webp",
-    "static/media/dondakaya.jpg": "/veggie/static/media/dondakaya.df6f659dcd1f19b860e3.jpg",
-    "index.html": "/veggie/index.html",
-    "main.5ac67ded.css.map": "/veggie/static/css/main.5ac67ded.css.map",
-    "main.2d4f1031.js.map": "/veggie/static/js/main.2d4f1031.js.map"
+    "main.css": "/veggie/myfirst-app/static/css/main.5ac67ded.css",
+    "main.js": "/veggie/myfirst-app/static/js/main.dca7bde0.js",
+    "static/media/berakaya.webp": "/veggie/myfirst-app/static/media/berakaya.41eec912b6f60df934b1.webp",
+    "static/media/dondakaya.jpg": "/veggie/myfirst-app/static/media/dondakaya.df6f659dcd1f19b860e3.jpg",
+    "index.html": "/veggie/myfirst-app/index.html",
+    "main.5ac67ded.css.map": "/veggie/myfirst-app/static/css/main.5ac67ded.css.map",
+    "main.dca7bde0.js.map": "/veggie/myfirst-app/static/js/main.dca7bde0.js.map"
   },
   "entrypoints": [
     "static/css/main.5ac67ded.css",
-    "static/js/main.2d4f1031.js"
+    "static/js/main.dca7bde0.js"
   ]
 }
